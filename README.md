@@ -21,7 +21,7 @@ A web application that allows users to fetch and display Pokémon cards based on
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/the-pokemon-app.git
+git clone https://github.com/Jayant9917/the-pokemon-app.git
 ```
 
 2. Open the project directory:
